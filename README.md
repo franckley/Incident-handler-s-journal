@@ -1,4 +1,4 @@
-# Incident-handling-journal
+# Incident handling journal
 
 ## Date: July 23, 2024
 
